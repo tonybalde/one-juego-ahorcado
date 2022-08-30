@@ -24,4 +24,4 @@ El desafío consiste en construir una página web que contenga el juego del ahor
 
 #### Creditos:
 - Tome como inspiración el diseño de: https://github.com/aletbm/Juego_del_ahorcado, le hice algunas modificaciones para dejarlo a mi gusto y este
-es el resultado final: 
+es el resultado final: https://tonybalde.github.io/one-juego-ahorcado/
