@@ -21,3 +21,7 @@ El desafío consiste en construir una página web que contenga el juego del ahor
 
 ### Extras:
 - La página debe tener un campo para inserción de texto con la finalidad de adicionar nuevas palabras al juego, e un botón "Agregar palabra".
+
+#### Creditos:
+- Tome como inspiración el diseño de: https://github.com/aletbm/Juego_del_ahorcado, le hice algunas modificaciones para dejarlo a mi gusto y este
+es el resultado final: 
