@@ -360,7 +360,7 @@ modo.addEventListener('click', function () {
         let r = document.querySelector(':root');
         r.style.setProperty('--color1', '#A2ABC8');
         r.style.setProperty('--color2', '#6F7488');
-        r.style.setProperty('--color3', '#b2b8cc');  //   // origi: 3B3E49
+        r.style.setProperty('--color3', '#b2b8cc');  //   origi: 3B3E49
         r.style.setProperty('--color4', '#292B33');
         r.style.setProperty('--color5', '#31333C');
         window.modoOscuro = true
@@ -386,7 +386,7 @@ modo.addEventListener('click', function () {
     else {
         
         let r = document.querySelector(':root'); // Colores activos modo claro
-        r.style.setProperty('--color1', '#0a110f'); /// 0a110f -- original: C7FFED
+        r.style.setProperty('--color1', '#0a110f'); /// original: C7FFED
         r.style.setProperty('--color2', '#D8FFDB');
         r.style.setProperty('--color3', '#0885fa');
         r.style.setProperty('--color4', '#e99d10');
