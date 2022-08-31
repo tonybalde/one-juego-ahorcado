@@ -372,7 +372,7 @@ modo.addEventListener('click', function () {
             drawGame()
         }
 
-        document.body.style.background = "#211f01 url('../img/landscapeNight.svg') no-repeat center top";
+        document.body.style.background = "#211f01 url('./img/landscapeNight.svg') no-repeat center top";
         document.body.style.backgroundSize = "100%";
         
 
@@ -399,7 +399,7 @@ modo.addEventListener('click', function () {
             drawGame()
         }
 
-        document.body.style.background = "#0885fa url('../img/landscapeSun.svg') no-repeat center top";
+        document.body.style.background = "#0885fa url('./img/landscapeSun.svg') no-repeat center top";
         document.body.style.backgroundSize = "100%";
 
         const logo = document.querySelector('#logo');
